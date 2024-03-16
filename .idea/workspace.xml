@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af3a1ce5-8c6c-49bf-84f6-a2b3bf169e62" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2dVFlzXi0zREBr4fbAJ2ScldTfy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2557/입출력과 사칙연산/2557_Hello World" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\j\Desktop\project\baekjoon\2557\입출력과 사칙연산\2557_Hello World" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.10998_AxB">
+    <configuration name="1000_A+B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="baekjoon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/입출력과 사칙연산/1000_A+B" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/입출력과 사칙연산/1000_A+B/1000_A+B.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1001_A-B" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="baekjoon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/입출력과 사칙연산/1001_A-B" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/입출력과 사칙연산/1001_A-B/1001_A-B.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10998_AxB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="baekjoon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/입출력과 사칙연산/10998_AxB" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/입출력과 사칙연산/10998_AxB/10998_AxB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2557" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="baekjoon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2557/입출력과 사칙연산/Hello World" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2557/입출력과 사칙연산/Hello World/2557.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2557_Hello World" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="baekjoon" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/입출력과 사칙연산/2557_Hello World" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/입출력과 사칙연산/2557_Hello World/2557_Hello World.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.10998_AxB" />
+        <item itemvalue="Python.1001_A-B" />
+        <item itemvalue="Python.1000_A+B" />
+        <item itemvalue="Python.2557_Hello World" />
+        <item itemvalue="Python.2557" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af3a1ce5-8c6c-49bf-84f6-a2b3bf169e62" name="Default Changelist" comment="" />
+      <created>1710085494756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710085494756</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1710600230146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1710600230146" />
+    <state width="1899" height="348" key="GridCell.Tab.0.center" timestamp="1710600230146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1710600230146" />
+    <state width="1899" height="348" key="GridCell.Tab.0.left" timestamp="1710600230145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1710600230145" />
+    <state width="1899" height="348" key="GridCell.Tab.0.right" timestamp="1710600230146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1710600230146" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1710600230146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1710600230146" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1710600230146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1710600230146" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1710600230146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1710600230146" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1710600230146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1710600230146" />
+  </component>
+</project>
