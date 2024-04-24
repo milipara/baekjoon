@@ -34,8 +34,8 @@
       <recent name="C:\Users\j\Desktop\project\baekjoon\2557\입출력과 사칙연산\2557_Hello World" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.11654_아스키 코드">
-    <configuration name="11654_아스키 코드" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2908_상수">
+    <configuration name="10809_알파벳 찾기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -43,11 +43,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문자열/11654_아스키 코드" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문자열/10809_알파벳 찾기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문자열/11654_아스키 코드/11654_아스키 코드.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문자열/10809_알파벳 찾기/10809_알파벳 찾기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -56,7 +56,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1546_평균" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1152_단어의 개수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,11 +64,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1차원 배열/1546_평균" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문자열/1152_단어의 개수" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1차원 배열/1546_평균/1546_평균.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문자열/1152_단어의 개수/1152_단어의 개수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +77,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2743_단어 길이 재기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11720_숫자의 합" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,11 +85,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문자열/2743_단어 길이 재기" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문자열/11720_숫자의 합" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문자열/2743_단어 길이 재기/2743_단어 길이 재기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문자열/11720_숫자의 합/11720_숫자의 합.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -98,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="27866_문자와 문자열" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2675_문자열 반복" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문자열/27866_문자와 문자열" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문자열/2675_문자열 반복" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문자열/27866_문자와 문자열/27866_문자와 문자열.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문자열/2675_문자열 반복/2675_문자열 반복.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9086_문자열" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2908_상수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="baekjoon" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문자열/9086_문자열" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/문자열/2908_상수" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문자열/9086_문자열/9086_문자열.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/문자열/2908_상수/2908_상수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.11654_아스키 코드" />
-        <item itemvalue="Python.9086_문자열" />
-        <item itemvalue="Python.2743_단어 길이 재기" />
-        <item itemvalue="Python.27866_문자와 문자열" />
-        <item itemvalue="Python.1546_평균" />
+        <item itemvalue="Python.2908_상수" />
+        <item itemvalue="Python.1152_단어의 개수" />
+        <item itemvalue="Python.2675_문자열 반복" />
+        <item itemvalue="Python.10809_알파벳 찾기" />
+        <item itemvalue="Python.11720_숫자의 합" />
       </list>
     </recent_temporary>
   </component>
@@ -162,37 +162,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="265" key="GridCell.Tab.0.bottom" timestamp="1713883558928">
+    <state width="1899" height="265" key="GridCell.Tab.0.bottom" timestamp="1713968880999">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1713883558928" />
-    <state width="1899" height="265" key="GridCell.Tab.0.center" timestamp="1713883558927">
+    <state width="1899" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1713968880999" />
+    <state width="1899" height="265" key="GridCell.Tab.0.center" timestamp="1713968880999">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="265" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1713883558927" />
-    <state width="1899" height="265" key="GridCell.Tab.0.left" timestamp="1713883558927">
+    <state width="1899" height="265" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1713968880999" />
+    <state width="1899" height="265" key="GridCell.Tab.0.left" timestamp="1713968880999">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="265" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1713883558927" />
-    <state width="1899" height="265" key="GridCell.Tab.0.right" timestamp="1713883558927">
+    <state width="1899" height="265" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1713968880999" />
+    <state width="1899" height="265" key="GridCell.Tab.0.right" timestamp="1713968880999">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="265" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1713883558927" />
-    <state width="1362" height="328" key="GridCell.Tab.1.bottom" timestamp="1712847254964">
+    <state width="1899" height="265" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1713968880999" />
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1713966215538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1712847254964" />
-    <state width="1362" height="328" key="GridCell.Tab.1.center" timestamp="1712847254964">
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1713966215538" />
+    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1713966215538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="328" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1712847254964" />
-    <state width="1362" height="328" key="GridCell.Tab.1.left" timestamp="1712847254964">
+    <state width="1899" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1713966215538" />
+    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1713966215538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="328" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1712847254964" />
-    <state width="1362" height="328" key="GridCell.Tab.1.right" timestamp="1712847254964">
+    <state width="1899" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1713966215538" />
+    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1713966215538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="328" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1712847254964" />
+    <state width="1899" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.-87.1920.1040@0.0.1920.1040" timestamp="1713966215538" />
   </component>
 </project>
