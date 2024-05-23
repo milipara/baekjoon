@@ -6,14 +6,14 @@ N , M = map(int,input().split())
 A , B = [],[]
 
 for i in range(N):
-    a = list(map(int,input().split()))
-    A.append(a)
+    i = list(map(int,input().split())) # A배열에 append로 쌓기
+    A.append(i)
 
 for j in range(N):
-    b = list(map(int,input().split()))
-    B.append(b)
+    j = list(map(int,input().split())) # B배열에 append로 쌓기
+    B.append(j)
 
 for k in range(N):
     for l in range(M):
-        print([k][l] + B[k][l], end= ' ')
+        print(A[k][l] + B[k][l], end= ' ')
     print()
