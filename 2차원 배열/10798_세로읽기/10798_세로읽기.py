@@ -9,8 +9,21 @@ for i in range(5):
     word=input()
     words.append(word)
     num.append(len(word))
-
-for i in range(num):
+for i in range(max(num)):
     for j in range(5):
-        list += words[j][i]
+        if i < num[j]:
+            list += words[j][i]
+print(list)
+
+words = []
+list = ""
+num=[]
+for i in range(5):
+    word=input()
+    words.append(word)
+    num.append(len(word))
+for i in range(max(num)):
+    for j in range(5):
+        if i < num[j]:
+            list += words[j][i]
 print(list)
